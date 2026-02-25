@@ -2,7 +2,7 @@
 
 I build internet radio stuff + Source engine / SourceMod tools.
 
-## main project (current focus)
+## Main Project (Current Focus)
 ### dRadio — https://radio.dubbeh.net
 A fast, no-nonsense internet radio directory + player.
 
