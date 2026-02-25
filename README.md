@@ -8,13 +8,13 @@ A fast, no-nonsense internet radio directory + player.
 
 - Aggregates stations from multiple sources (and de-dupes them into a cleaner dataset)
 - Validates streams regularly (so dead links get filtered out over time)
-- Normalizes tags/genres so filtering isn’t a total mess
+- Normalizes tags/genres so filtering isn’t a total mess (Slow WIP)
 - Secure playback via an HTTPS proxy (helps with legacy streams / mixed content issues)
 - Built to scale: background jobs for ingest → validation → scoring → exports
 
 If you want to browse stations, filter by tags, and just hit play: **https://radio.dubbeh.net**
 
-- Updates / dev notes — https://dubbeh.net/tag/radio-dubbeh-net/
+- Updates / dev notes — https://dubbeh.net/tag/radio-dubbeh-net/ - Sometimes!
 
 ## SourceMod plugins (docs)
 - Radio 2 — https://dubbeh.net/sourcemod-plugins/radio-2/
